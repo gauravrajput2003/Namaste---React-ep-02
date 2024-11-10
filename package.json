@@ -1,0 +1,26 @@
+{
+  "name": "namaste---react-ep-02",
+  "version": "1.0.0",
+  "description": "this is my first day of react",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravrajput2003/Namaste-React-ep-02.git"
+  },
+  "keywords": [
+    "react",
+    "gaurav"
+  ],
+  "author": "gaurav singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravrajput2003/Namaste-React-ep-02/issues"
+  },
+  "homepage": "https://github.com/gauravrajput2003/Namaste-React-ep-02#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
